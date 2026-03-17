@@ -1,2 +1,2 @@
-his project is a Guestbook web application developed using Spring Boot following a layered architecture pattern. The application allows users to submit and view guestbook entries, demonstrating the implementation of RESTful services, MVC architecture, and database interaction in a Spring Boot environment.
+This project is a Guestbook web application developed using Spring Boot following a layered architecture pattern. The application allows users to submit and view guestbook entries, demonstrating the implementation of RESTful services, MVC architecture, and database interaction in a Spring Boot environment.
 The system is designed with a clear separation of concerns using Controller, Service, Repository, and Model layers, which improves maintainability and scalability.
